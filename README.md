@@ -1,0 +1,8 @@
+# OracleMLWE-mmKEM-Cryptanalysis
+
+This repository contains a **SageMath** implementation that reproduces our cryptanalytic attack on the mmKEM construction from: *Lattice-based Multi-message Multi-recipient KEM/PKE with Malicious Security*, Paper 2025/1655.  
+Available at: https://eprint.iacr.org/2025/1655
+
+## Run
+```bash
+sage attack_demo.sage 
